@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Semestralni_Prace_NIS2/static/css/main.7953e9b7.css",
+    "main.js": "/Semestralni_Prace_NIS2/static/js/main.5294fb65.js",
+    "static/js/453.0bb56e4b.chunk.js": "/Semestralni_Prace_NIS2/static/js/453.0bb56e4b.chunk.js",
+    "index.html": "/Semestralni_Prace_NIS2/index.html",
+    "main.7953e9b7.css.map": "/Semestralni_Prace_NIS2/static/css/main.7953e9b7.css.map",
+    "main.5294fb65.js.map": "/Semestralni_Prace_NIS2/static/js/main.5294fb65.js.map",
+    "453.0bb56e4b.chunk.js.map": "/Semestralni_Prace_NIS2/static/js/453.0bb56e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7953e9b7.css",
+    "static/js/main.5294fb65.js"
+  ]
+}
