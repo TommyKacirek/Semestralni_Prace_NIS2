@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: radial-gradient(circle at 40% 40%, #182638 70%, #121b2b 100%);
+  color: #edfaff;
+  min-height: 100vh;
+}
+
+.app-container {
+  max-width: 1100px;
+  width: 95vw;
+  margin: 0 auto;
+  border-radius: 14px;
+  padding: 30px 40px 40px 40px;
+  box-sizing: border-box;
+  background-color: #18395a;
+  box-shadow: 0 10px 35px rgba(33, 150, 243, 0.25);
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 2.6rem;
+  margin-bottom: 6px;
+  color: #3deac2;
+  letter-spacing: 0.03em;
+  user-select: none;
+}
+
+h3 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 1.15rem;
+  margin-top: 0;
+  color: #8dd9e8;
+  user-select: none;
+  margin-bottom: 18px;
+}
+
+.progress-bar-animated {
+  height: 6px;
+  background: #232a38;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  width: 100%;
+  position: relative;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #2deecf 30%, #21b0db 100%);
+  border-radius: 10px;
+  transition: width 0.8s cubic-bezier(.4,2.2,.6,1);
+}
+
+.progress-bar-label {
+  text-align: right;
+  color: #49eee7;
+  font-weight: 700;
+  margin-bottom: 30px;
+  user-select: none;
+}
